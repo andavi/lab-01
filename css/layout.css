@@ -1,0 +1,44 @@
+header {
+  height: 75px;
+  line-height: 75px;
+  white-space: nowrap;
+}
+
+aside {
+  height: 150px;
+  line-height: 150px;
+  white-space: nowrap;
+}
+
+section {
+  height: 125px;
+  line-height: 125px;
+  white-space: nowrap;
+}
+
+#article {
+  margin: 0 auto;
+  max-width: 480px;
+}
+
+article {
+  height: 250px;
+  width: 240px;
+  float: left;
+  line-height: 250px;
+  white-space: nowrap;
+  
+}
+
+footer {
+  height: 80px;
+  clear: both;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+@media(min-width: 768px) {
+  body {
+    background-color: blue;
+  }
+}
