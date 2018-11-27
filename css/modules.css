@@ -33,3 +33,41 @@
 #i {
   background-color: burlywood;
 }
+
+@media(min-width: 768px) {
+  #a {
+    background-color: cadetblue;
+  }
+  
+  #b {
+    background-color: coral;
+  }
+  
+  #c {
+    background-color: cornflowerblue;
+  }
+  
+  #d {
+    background-color: cornsilk;
+  }
+  
+  #e {
+    background-color: cyan;
+  }
+  
+  #f {
+    background-color: darkcyan;
+  }
+  
+  #g {
+    background-color: darkgoldenrod;
+  }
+  
+  #h {
+    background-color: darkkhaki;
+  }
+  
+  #i {
+    background-color: darkseagreen;
+  }
+}
