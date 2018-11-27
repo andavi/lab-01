@@ -1,0 +1,33 @@
+header {
+  height: 75px;
+}
+
+aside {
+  height: 150px;
+}
+
+section {
+  height: 125px;
+}
+
+#article {
+  margin: 0 auto;
+  max-width: 480px;
+}
+
+article {
+  height: 250px;
+  width: 240px;
+  float: left;
+}
+
+footer {
+  height: 80px;
+  clear: both;
+}
+
+@media(min-width: 768px) {
+  body {
+    background-color: blue;
+  }
+}
